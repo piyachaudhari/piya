@@ -1,6 +1,10 @@
 Hello Git
+<<<<<<< HEAD
 Today's date is 10 Feb 2023
 Today is my 3rd lecture of git hub
 very good morning
 I hv completed my PG
 Todays date is 14th feb and adding this text
+=======
+Today's date is 14 Feb 2023
+>>>>>>> 429d2ab1b925f1235a1890338563ae44dea0e107
